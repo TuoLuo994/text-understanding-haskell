@@ -1,0 +1,11 @@
+Fred is no longer in the park
+Bill moved to the hallway
+Fred is either in the school or the kitchen
+Mary went to the office
+Bill is no longer in the hallway
+Fred moved to the cinema
+Sandra moved to the bedroom
+Bill is in the office
+Bill moved to the cinema
+Fred is either in the park or the kitchen
+Mary is no longer in the office

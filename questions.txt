@@ -1,0 +1,52 @@
+Task 1
+Is Mary in the kitchen ?  yes	
+Is Daniel in the bedroom ?  no	
+Is John in the office ?  no
+Is Sandra in the hallway ?  maybe
+
+Task 2
+Where is the football ?  hallway
+Where is the apple ?  kitchen
+Where is the milk ?  hallway
+
+Task 3
+How many objects is Mary carrying ?  0
+How many objects is Sandra carrying ?  2
+How many objects is Daniel carrying ?  1
+How many objects is John carrying ?  0
+
+Task 4
+Is Mary in the bedroom ?  maybe
+Is Daniel in the office ?  maybe
+Is Sandra in the bedroom ?  yes
+Is Fred in the office ?  no
+Is Bill in the park ?  no
+
+Task 5
+Where was Sandra before the school ?  cinema
+Where was Bill before the school ?  park
+Where was Fred after the school ?  park
+Where was Sandra after the school ?  don't know
+
+Task 6
+How do you go from the kitchen to the office ?  east, north
+How do you go from the bathroom to the hallway ?  west, west
+How do you go from the garden to the office ?  north, west, north
+
+Test
+Is Bill in the kitchen ?  maybe
+How many objects is John carrying ?  0
+Where was Fred before the hallway ?  don't know
+How many objects is Mary carrying ?  2
+How do you go from the garden to the hallway ?  north, east, east
+Is Sandra in the school ?  no
+How do you go from the hallway to the kitchen ?	west, north
+Where is the apple ?  office
+Where is the football ?  garden
+Where was Bill after the kitchen ?  don't know
+Where was Mary after the garden ?  office
+Is Daniel in the hallway ?  no
+How many objects is Fred carrying ?  1
+Where is the milk ?  office
+Where was Sandra before the school ?  park
+Is John in the park ?  yes

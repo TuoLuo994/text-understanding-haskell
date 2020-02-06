@@ -1,0 +1,33 @@
+Sandra is in the kitchen
+Fred is in the hallway
+Daniel moved to the bathroom
+The bathroom is south of the kitchen
+Bill picked up the milk
+Sandra went to the garden
+Mary went to the bathroom
+Daniel moved to the hallway
+Mary journeyed to the hallway
+Bill handed the milk to Mary
+Mary moved to the garden
+John picked up the football
+Fred went to the bedroom
+The garden is south of the bedroom
+Sandra is either in the cinema or the office
+Fred journeyed to the school
+Fred journeyed to the office
+The hallway is east of the bathroom
+Sandra picked up the apple
+The bedroom is west of the bathroom
+Mary went to the office
+Sandra moved to the park
+John journeyed to the park
+John handed the football to Sandra
+Sandra went to the school
+Sandra dropped the apple
+Sandra discarded the football
+Fred picked up the football
+Sandra is no longer in the school
+Mary took the apple
+Fred moved to the garden
+Daniel is either in the office or the kitchen
+
